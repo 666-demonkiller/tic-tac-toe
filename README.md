@@ -8,6 +8,6 @@ run as <code>python3 tic-tac-toe.py</code>
 
 Install Python3:
 
-sudo apt install python
-sudo dnf install python
+sudo apt install python<br>
+sudo dnf install python<br>
 sudo pacman -S python
