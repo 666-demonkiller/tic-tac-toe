@@ -1,7 +1,7 @@
 #Implementation of Two Player Tic-Tac-Toe game in Python.
 
 #=========================================
-#Author: DemonKiller		        =
+#Author: DemonKiller		         =
 #SPDX-License-Identifier: GPL-3.0        =
 #Warning! DO NOT RUN THIS SCRIPT BLINDLY.=  
 #=========================================
