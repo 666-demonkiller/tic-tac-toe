@@ -46,7 +46,7 @@ def game():
             print("That place is already filled.\nMove to which place?")
             continue
 
-        # Now we will check if player X or O has won,for every move after 5 moves. 
+        # Winining conditions
         if count >= 5:
             if theBoard['7'] == theBoard['8'] == theBoard['9'] != ' ': # across the top
                 printBoard(theBoard)
