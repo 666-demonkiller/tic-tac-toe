@@ -3,7 +3,8 @@
 #=========================================
 #Author: DemonKiller		         =
 #SPDX-License-Identifier: GPL-3.0        =
-#Warning! DO NOT RUN THIS SCRIPT BLINDLY.=  
+#Warning! DO NOT RUN THIS SCRIPT BLINDLY.= 
+#Version 1: 0 is free to start           = 
 #=========================================
 
 
